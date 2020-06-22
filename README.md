@@ -1,3 +1,3 @@
 # ImersaoGameDev
-Brincado com a Imersão Gamer Dev
+Brincando com a Imersão Gamer Dev
 # Dev Gamer
